@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/CoinChart/static/js/main.bb92bdc5.chunk.js",
-    "main.js.map": "/CoinChart/static/js/main.bb92bdc5.chunk.js.map",
+    "main.js": "/CoinChart/static/js/main.4feb3d47.chunk.js",
+    "main.js.map": "/CoinChart/static/js/main.4feb3d47.chunk.js.map",
     "runtime-main.js": "/CoinChart/static/js/runtime-main.4153c220.js",
     "runtime-main.js.map": "/CoinChart/static/js/runtime-main.4153c220.js.map",
     "static/js/2.18f13752.chunk.js": "/CoinChart/static/js/2.18f13752.chunk.js",
@@ -12,6 +12,6 @@
   "entrypoints": [
     "static/js/runtime-main.4153c220.js",
     "static/js/2.18f13752.chunk.js",
-    "static/js/main.bb92bdc5.chunk.js"
+    "static/js/main.4feb3d47.chunk.js"
   ]
 }
