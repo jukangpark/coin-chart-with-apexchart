@@ -1,3 +1,5 @@
-# How to Start
+# Coin Chart with Apex Chart
 
-https://jukangpark.github.io/CoinChart/
+<p align='center'>
+    <a href="https://jukangpark.github.io/coin-chart-with-apexchart">Published Webpage</a>
+</p>
